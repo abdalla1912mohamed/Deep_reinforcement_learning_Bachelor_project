@@ -18,5 +18,3 @@ To replicate the experiments and simulations discussed in this thesis, ensure yo
 
 Conclusion
 This work highlights the potential of reinforcement learning in enabling mobile robots to navigate unknown environments effectively, emphasizing the importance of adaptability and learning in real-world applications.
-
-Feel free to modify any sections to better align with your specific thesis content!
